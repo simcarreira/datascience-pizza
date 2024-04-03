@@ -17,6 +17,7 @@
 |   | Adianta | São Paulo-SP | Serviços financeiros, Capital de risco e participações privadas, Tecnologia da informação e serviços |   |   |
 |   | GBI | São Paulo-SP | Tecnologia da informação e serviços, Software, Recursos humanos |   |   |
 |   | Michael Page | São Paulo-SP | Tecnologia da informação e serviços, Software e Serviços financeiros |   | https://www.michaelpage.com.br/job-search |
+|   | Sim Carreira | São Paulo-SP | Tecnologia da informação e serviços | contato@simcarreira.com.br  | https://www.simcarreira.com.br |
 |   | Kantar IBOPE Media | São Paulo-SP | Pesquisa | https://www.kantaribopemedia.com/fale-conosco/ | https://site.vagas.com.br/VagasDe1Empr.asp?t=024 |
 |   | DataH | São Paulo-SP | Inteligência artificial |   |   |
 |   | Triad Systems | São Paulo-SP | ecnologia da informação e serviços, Software e Recursos humanos | http://triadsystems.com.br/contato/ |   |
