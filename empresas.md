@@ -16,6 +16,7 @@
 |   | Votorantim S.A. | São Paulo-SP | Gestão de Portfólio | http://www.votorantim.com.br/  | https://eb.vagas.com.br/votorantim?d=42370 |
 |   | Adianta | São Paulo-SP | Serviços financeiros, Capital de risco e participações privadas, Tecnologia da informação e serviços |   |   |
 |   | GBI | São Paulo-SP | Tecnologia da informação e serviços, Software, Recursos humanos |   |   |
+|   | Sim Carreira | São Paulo-SP | Tecnologia da informação e serviços |   | https://www.simcarreira.com.br |
 |   | Michael Page | São Paulo-SP | Tecnologia da informação e serviços, Software e Serviços financeiros |   | https://www.michaelpage.com.br/job-search |
 |   | Kantar IBOPE Media | São Paulo-SP | Pesquisa | https://www.kantaribopemedia.com/fale-conosco/ | https://site.vagas.com.br/VagasDe1Empr.asp?t=024 |
 |   | DataH | São Paulo-SP | Inteligência artificial |   |   |
